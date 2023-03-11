@@ -8,4 +8,26 @@
 jsonlite
 
 # if deploying shiny based applications:
+corpcor
+DLMtool
+dplyr
+ggplot2
+formattable
+kableExtra
+knitr
 shiny
+shinyjs
+shinyalert
+shinyWidgets
+shinyBS
+MSEtool
+openMSE
+SAMtool
+tinytex
+rfishbase
+cowplot
+readxl
+httpuv
+mvtnorm
+rmarkdown
+DT
